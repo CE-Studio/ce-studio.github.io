@@ -1062,6 +1062,13 @@ a {
 .cid-sNb461HdCH {
   background-image: url("../../../assets/images/cebg-1.svg");
 }
+.cid-sNb461HdCH .mbr-section-title {
+  color: #ffffff;
+}
+.cid-sNb461HdCH .mbr-text,
+.cid-sNb461HdCH .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-sMmrmJ5nOE {
   padding-top: 2rem;
   padding-bottom: 2rem;
